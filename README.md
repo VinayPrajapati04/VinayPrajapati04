@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 👯 I’m looking to collaborate on [NordStrom E-Commerce website](https://nord-strom-project.vercel.app/)
+- 👯 I have done collaborate project's on [NordStrom E-Commerce website](https://nord-strom-project.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://portfolio-rust-two-96.vercel.app/](https://portfolio-rust-two-96.vercel.app/)
 
